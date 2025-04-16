@@ -18,7 +18,7 @@ I don't like:
 * Anything made by Apple
 * [Digital Rights Management](https://www.eff.org/issues/drm)
 * [Arbitration clauses](https://wiki.rossmanngroup.com/wiki/Forced_arbitration) in terms of service
-* Overuse of AI (I enjoy thinking for myself instead of letting the computer think for me)
+* When people use LLMs instead of thinking for themselves
 * People who try to sue someone for pressing F12 ([yes, really](https://www.youtube.com/watch?v=lSsvzBV0tyI))
 
 My posts are 100% human made. No AI tools used.
