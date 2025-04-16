@@ -6,16 +6,19 @@ layout: home
 ---
 Hi, I'm Misha, a first year undergraduate university student studying computer science.
 
-Things I like:
+I like:
 * Linux
 * Free software ([as in freedom](https://www.gnu.org/philosophy/free-sw.en.html))
 * Ethical hacking and CTF competitions
 * Rubik's cubes and other puzzles
 * The [right to repair](https://en.wikipedia.org/wiki/Right_to_repair) movement
 
-Things I don't like:
+I don't like:
+* Microsoft Windows
+* Anything made by Apple
 * [Digital Rights Management](https://www.eff.org/issues/drm)
 * [Arbitration clauses](https://wiki.rossmanngroup.com/wiki/Forced_arbitration) in terms of service
-* Overuse of AI (I enjoy being able to think about things instead of letting the computer think for me)
+* Overuse of AI (I enjoy thinking for myself instead of letting the computer think for me)
+* People who try to sue someone for pressing F12 ([yes, really](https://www.youtube.com/watch?v=lSsvzBV0tyI))
 
-The content on this blog is 100% human made. No AI tools are used.
+My posts are 100% human made. No AI tools used.
