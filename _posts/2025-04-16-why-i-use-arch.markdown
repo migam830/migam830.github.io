@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2025-04-16 00:10:00
 title: Why I use Arch Linux
 ---
 I have been using Arch Linux as my daily-driver desktop operating system for a few years now. I really like Arch, but whenever I talk to anyone about it, I inevitably make it seem like running Arch is very difficult and that you can't update your system without something breaking.
