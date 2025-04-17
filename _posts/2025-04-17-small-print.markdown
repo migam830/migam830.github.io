@@ -1,6 +1,5 @@
 ---
 layout: post
-date: 2025-04-16 00:20:00
 title: You shouldn't have to read the small print
 ---
 You've probably heard the expression "read the small print" before. It refers to making sure you read any terms or restrictions in something you are agreeing to. This expression implies that if whoever wrote the agreement tries to screw you over in the future, it's entirely your fault. It implies that to avoid getting screwed, you need to spend many hours of your time carefully scrutinising dense legal documents written deliberately to be as hard to understand as possible.
