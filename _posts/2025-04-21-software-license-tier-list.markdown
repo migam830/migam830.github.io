@@ -2,11 +2,15 @@
 layout: post
 title: Software license tier list
 ---
-I have seen many tier lists but (un)surprisingly haven't seen any software license ones. This is probably because no one has ever felt the need to make one. So here is a tier list on this very exciting topic.
+I have seen many tier lists but haven't seen any software license ones. This is probably because no one has ever had enough interest in software licenses to make a tier list. I am fascinated by software licenses, though, so here is a tier list ranking them.
 
-Obviously, this is my opinion and this isn't objective in any way. There are hundreds of software licenses, I am just focusing on the most common ones.
+Obviously, this is my opinion and this isn't objective in any way.
+
+Also, there are hundreds of software licenses (anyone can write their own license), I am just focusing on the most common ones.
 
 I am not a lawyer, this is not legal advice.
+
+Here is my tier list:
 
 | <span style="color:red">S</span> | `GPL` `AGPL` |
 | <span style="color:orange">A</span> | `MIT` `LGPL` `CC0` `0BSD`  `Apache` `MPL` |
