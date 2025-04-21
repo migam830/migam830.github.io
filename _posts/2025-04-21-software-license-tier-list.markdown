@@ -9,13 +9,12 @@ Obviously, this is my opinion and this isn't objective in any way. There are hun
 I am not a lawyer, this is not legal advice.
 
 | <span style="color:red">S</span> | `GPL` `AGPL` |
-| <span style="color:orange">A</span> | `MIT` `LGPL` `CC0` `Apache` `MPL` |
-| <span style="color:gold">B</span> | `WTFPL` `BSD-3-Clause` `0BSD` |
-| <span style="color:green">C</span> | `Unlicense` `BSD-2-Clause` |
+| <span style="color:orange">A</span> | `MIT` `LGPL` `CC0` `0BSD`  `Apache` `MPL` |
+| <span style="color:gold">B</span> | `WTFPL` `BSD-2-Clause` `BSD-3-Clause` |
+| <span style="color:green">C</span> | `Unlicense` `BSD-4-Clause` |
 | <span style="color:turquoise">D</span> | `SSPL` |
 | <span style="color:purple">F</span> | `Closed Source` `License Change` |
 
-In the tier list, I have used the SPDX license identifiers on all licenses except a few. Here are those few and what identifier I meant:
 # Clarification
 * `GPL` refers to `GPL-3.0-only` 
 * `AGPL` refers to `AGPL-3.0-only`
@@ -23,10 +22,11 @@ In the tier list, I have used the SPDX license identifiers on all licenses excep
 * `CC0` refers to `CC0-1.0`
 * `Apache` refers to `Apache-2.0`
 * `MPL` refers to `MPL-2.0`
+* `SSPL` refers to `SSPL-1.0`
 * `Closed Source` refers to any software license where the source code cannot be accessed by everyone who can access the object code
 * `License Change` refers to swapping the license for your software from one that meets the [open source definition](https://opensource.org/osd/) to one that doesn't
 
-All other licenses in the tier list are referred to by their SPDX identifiers.
+All other licenses in the tier list are referenced by their [SPDX identifiers](https://spdx.org/licenses/).
 
 # Explanation
 `GPL` and `AGPL` are my favourite licenses. They allow the user to do essentially what they want with the software but ensure they ensure the same license is used. This maximises freedom and makes sure big corporations can't publish a modified version of your code without also providing the source code. I use these licenses for almost all the software I make. That is why they go in S tier.
@@ -43,7 +43,9 @@ The `MPL` is very similar to the `LGPL`. It is also a weak copyleft license but 
 
 The `WTFPL` or the "Do What The Fuck You Want To Public License" is a public domain equivalent license. It is probably self-explanatory in what rights it gives you. It's probably not the best choice for your software. It hasn't been tested in court to the best of my knowledge and doesn't include a no-warranty disclaimer (although you can add one yourself). Also, I have no idea how the license's only clause "You just DO WHAT THE FUCK YOU WANT TO" would be interpreted in a legal context. On the other hand, it's funny so it gets B tier.
 
-There are many licenses which get referred to as "the BSD license". These are similar but have some important differences. The `BSD-2-Clause` license is effectively the same as the `MIT` license. The `BSD-3-Clause` license is the same as the 2 clause one but has a clause prohibiting the promotion of derived products without permission. I have put `BSD-2-Clause` in C tier since I don't see why you would use it over `MIT` and I put `BSD-3-Clause` in B tier since it has some differences from `MIT` but I would still use `MIT` over this license. `0BSD` is a public domain equivalent license which has no conditions in it. It's like `WTFPL` but more serious. I put `0BSD` in B tier since I don't see why I would use it over `CC0`.
+There are many licenses which get referred to as "the BSD license". These are similar but have some important differences. The `BSD-2-Clause` license is effectively the same as the `MIT` license. The `BSD-3-Clause` license is the same as the 2 clause one but has a clause prohibiting the promotion of derived products without permission. I have put `BSD-2-Clause` and `BSD-3-Clause` in B tier since they are very similar to `MIT`. The reason I put them lower than `MIT` is because the different variants can be confusing. I put `BSD-4-Clause` in C tier since it also has a clause requiring all advertisements to acknowledge the original creator. This isn't too big a deal but makes the license incompatible with the `GPL`.
+
+`0BSD` is a public domain equivalent license which has no conditions in it. It's like `WTFPL` but more serious. I put `0BSD` in A tier since it gives users almost the same rights `CC0` without actually releasing the work into the public domain.
 
 `SSPL` is a source-available license based on the `AGPL`. It is not an open source license due to extra restrictions it places. It says anyone that provides `SSPL` code as a service has to make the source code of their entire tech stack available. The restrictions don't seem terrible, but they could be very hard to comply with. The main reason I put this license in D tier is because this license is often used to relicense software that was previously open source. Since software licensed under the `SSPL` is not open source, relicensing can be extremely problematic to people who were reliant on the software being open-source.
 
