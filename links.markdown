@@ -10,7 +10,7 @@ Here are some links to stuff on the internet that I like.
 * [neal.fun](https://neal.fun/) - home of The Password Game, Infinite Craft and other random fun stuff, worth checking every couple of months or so
 * [Project Gutenberg](https://www.gutenberg.org/) - large collection of free, public domain e-books, especially useful if you want to read older books on an e-reader
 * [YouTube Frame Timer](https://retime.mcbe.wtf/) - useful website for timing speedruns from YouTube videos without downloading any software
-* [Consumer Action Taskforce](https://wiki.rossmanngroup.com/) - wiki fighting consumer exploitation, quite new but very useful
+* [Consumer Rights Wiki](https://consumerrights.wiki/) - wiki fighting consumer exploitation, quite new but very useful
 
 # Linux and open source related:
 * [ArchWiki](https://wiki.archlinux.org/) - among the best Linux documentation you can find online, useful even if you don't use Arch specifically
