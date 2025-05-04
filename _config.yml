@@ -27,6 +27,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  migam830
 rss: RSS feed
+copyright: 2025 migam830 - All Rights Reserved
 
 # Build settings
 theme: minima
