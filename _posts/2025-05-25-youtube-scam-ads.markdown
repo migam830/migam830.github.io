@@ -4,12 +4,12 @@ title: Why are there so many scam ads on YouTube?
 ---
 Scam ads have existed on YouTube for a long time. Scammers will inevitably take advantage of any platform where you can pay to show an ad to a large number of people. The existence of these scams is not surprising to me, however the amount of these scams I have seen recently is shockingly high.
 
-I recently started noticing just how many of the ads I see are clearly scams. I would estimate these scam ads make up around 25% of all the ads I see, possibly more. This is just ridiculous. There are way too many scams ads on a platform as big as YouTube.
+I recently started noticing just how many of the ads I see are clearly scams. I would estimate these scam ads make up around 25% of all the ads I see, possibly more. This is just ridiculous. There are way too many scam ads on a platform as big as YouTube.
 
 Here's what a typical scam ad looks like:
 
 > A lot of people in [COUNTRY] have [COMMON PROBLEM] and don't know about this incredible product. Thanks to [INSERT PRODUCT NAME WHICH CHANGES EVERY TIME], you never have to worry about [PROBLEM] again. This product does [IMPOSSIBLE TASK] in [VERY SHORT AMOUNT OF TIME].
-
+>
 > This product was made by two people from [REPUTABLE ACADEMIC INSTITUTION] and created this product that does [SOMETHING VIOLATING LAWS OF PHYSICS]. They were kicked out of [ACADEMIC INSTITUTION] and they started a business selling [PRODUCT] which made [LARGE AMOUNT OF MONEY]. This product can only be bought on [SHADY WEB STORE] and cannot be bought anywhere else. For people viewing this, they are offering a [RANDOM NUMBER]% discount. Click the link to get [DIFFERENT RANDOM NUMBER]% off your purchase.
 
 Here are some examples of products I have seen in scam ads:
