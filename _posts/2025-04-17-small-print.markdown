@@ -8,7 +8,7 @@ Obviously, there are times in life where you would want to carefully read a lega
 
 These companies are clearly taking advantage of the fact that people don't read their terms and using that to screw over their customers. This frustrates me a lot. In this post, I want to outline what the problem is, and what you can do to make things at least a bit better.
 
-# "People who are worried about companies taking advantage of them should just read the terms!"
+## "People who are worried about companies taking advantage of them should just read the terms!"
 I can understand why you might have this response, especially if you aren't too worried about what companies can do. But there are people who might be worried, but simply don't have the time to read terms.
 
 As a university student, my time is not very valuable. I happily spend many hours configuring my Linux computer and not changing anything meaningful. I spend many hours watching YouTube videos that don't substantially contribute to my knowledge. I would happily spend several hours reading the terms of a company's service if I wanted to.
@@ -17,10 +17,10 @@ However, most people's time is much more valuable than mine. People have importa
 
 Companies are able to get away with many problematic things because their terms of service allow them to do so. The problem is the existence of those questionable terms, not people's unwillingness to read them.
 
-# "But what do these terms of service have that's so concerning?"
+## "But what do these terms of service have that's so concerning?"
 A lot of things, here are just some examples.
 
-# Taking away your ownership
+### Taking away your ownership
 When you see the word "purchase", you would probably assume that you are acquiring ownership of something in exchange for money. However, the terms of many companies redefine this common English word to take away your ownership. For example, many companies say that the content you 'purchase' from them is licensed and not sold (e.g. Amazon Kindle, Steam). This means the company can take away that content from you if they feel like it.
 
 That's right, many companies will sell you revocable licenses to content and still have the audacity to say it's a purchase!
@@ -29,7 +29,7 @@ If you saw the word 'license' instead of 'purchase' when you next went to buy a 
 
 Unfortunately, most companies decide to write 'purchase' on their front page and redefine 'purchase' as 'license' a few pages into their terms of service. When this happens, companies are deliberately withholding information from you in the hopes that you ignore the terms and buy the product, even though you won't be able to own the product you have paid for.
 
-# Arbitration clauses
+### Arbitration clauses
 **I am not a lawyer, this is not legal advice**
 
 Simply thinking about the idea of arbitration clauses for too long makes my blood boil. This is when a company includes a clause in their terms of service that says you cannot file a lawsuit against them and take them to court. Instead, any disputes you and the company have are settled in a process known as arbitration.
@@ -42,10 +42,10 @@ The main issue I have with arbitration clauses is that arbitration is supposed t
 
 Arbitration clauses are common in the US since the Federal Arbitration Act allows them. I am not sure whether or not they are legal in the UK, but I haven't seen any UK-only companies use them.
 
-# How companies get away with this
+## How companies get away with this
 The biggest problem about these problematic terms is how common they have become. This angers me, but doesn't surprise me much. Since people very rarely read the terms, companies can update them at any time and see if people react. For instance, one or two companies might have successfully inserted an arbitration clause into their terms and received no backlash. This results in other companies following suit. This is how we ended up where we are now, when so many companies have problematic terms, and the average consumer would sometimes struggle to find companies who don't have such terms.
 
-# What can people do about this?
+## What can people do about this?
 If you're reading this right now, you may think that it's pointless for me to rant about these issues since there doesn't seem to be a solution to them. To an extent that's true, I'm mostly writing this post to get my feelings about these issues written down. However, there are still things you can do to help.
 
 One thing you should do is raise awareness if a company tries to screw you over, since the company can backtrack on their decision and make things better.
@@ -60,7 +60,7 @@ Ultimately, none of these solutions are ideal and are unlikely to solve the prob
 
 I would also like to mention a project that I am really excited about called the [Consumer Rights Wiki](https://consumerrights.wiki/). This is a wiki where people document instances where companies abuse their customers. The idea is that you should be able to look up a company on this wiki and get an article detailing all the problems this company has regarding how they treat their customers, including the issues I have mentioned. This wiki is very new, and not all the articles on it are polished, but I can see this wiki becoming a valuable resource for consumers who want to make more informed decisions about what products to buy and which companies to support. Since it is a wiki, anyone can create and edit articles so you can document your experiences assuming it meets the criteria.
 
-# Final notes
+## Final notes
 I hope this post has made you aware of some of the issues that companies' terms can have and shown you why I believe that people should not be expected to read them. I believe that if more people are aware of these problems, it is going to be easier to find solutions.
 
 A lot of the things in this post have been quite negative. When I first learned about these things myself, it made me feel pessimistic and I have probably spent too much time thinking about all these issues. Don't take these things companies do too close to heart, and remember that there are still businesses who want the best for their customers, even if they are hard to find.

@@ -19,7 +19,7 @@ Here is my tier list:
 | <span style="color:turquoise">D</span> | `SSPL` |
 | <span style="color:purple">F</span> | `Closed Source` `License Change` |
 
-# Clarification
+## Clarification
 * `GPL` refers to `GPL-3.0-only` 
 * `AGPL` refers to `AGPL-3.0-only`
 * `LGPL` refers to `LGPL-3.0-only`
@@ -33,7 +33,7 @@ Here is my tier list:
 
 All other licenses in the tier list are referenced by their [SPDX identifiers](https://spdx.org/licenses/).
 
-# Explanation
+## Explanation
 `GPL` and `AGPL` are my favourite licenses. They allow the user to do essentially what they want with the software but ensure they ensure the same license is used. This maximises freedom and makes sure big corporations can't publish a modified version of your code without also providing the source code. I use these licenses for almost all the software I make. All these reasons are why they go in S tier.
 
 The `MIT` license is probably the most popular license for people just starting out to write software and is recommended by many sites. I think it is a good license. It meets the criteria of both [open source](https://opensource.org/osd/) and [free software](https://www.gnu.org/philosophy/free-sw.en.html/) and places no restrictions on what you can use the software for. The only condition is you have to include a copy of the license and copyright notice in all copies of the software (regardless of whether the software is modified). The reason I didn't put the `MIT` license in S tier is because its permissive nature allows people and companies to take your software, make a closed source version and give nothing back. You might not take issue with that and that is fine. Personally, however, this annoys me so I prefer `GPL`. That is why `MIT` goes in A tier.
