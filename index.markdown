@@ -4,7 +4,7 @@
 
 layout: home
 ---
-Hi, I'm Misha, a first year undergraduate university student studying computer science.
+Hi, I'm Misha, a second year undergraduate university student studying computer science.
 
 I like:
 * Linux
@@ -13,6 +13,7 @@ I like:
 * Rubik's cubes and other puzzles
 * The [right to repair](https://en.wikipedia.org/wiki/Right_to_repair) movement
 * Biscuits (the British version)
+* [F-Droid](https://f-droid.org/en/)
 
 I don't like:
 * Microsoft Windows
@@ -23,5 +24,6 @@ I don't like:
 * When websites make you pay to reject cookies
 * When people use LLMs instead of thinking for themselves
 * People who try to sue someone for pressing F12 ([yes, really](https://www.youtube.com/watch?v=lSsvzBV0tyI))
+* The Google Play Store
 
 My posts are 100% human made. No AI tools used.
