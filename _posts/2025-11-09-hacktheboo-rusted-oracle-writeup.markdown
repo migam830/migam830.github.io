@@ -15,8 +15,9 @@ Its gears grind against centuries of rust.
 > INPUT
 [ the machine falls silent ]
 ```
+The above output shows what happens if you run the program with the wrong input, so we need to find the correct input.
 
-When you open the program up in Ghidra, it is fairly straightforward to get the correct input for the name, you can tell from this line in the decompiled code of the main function:
+When you open the program up in [Ghidra](https://github.com/NationalSecurityAgency/ghidra), it is fairly straightforward to get the correct input for the name, you can tell from this line in the decompiled code of the main function:
 ```c
 iVar1 = strcmp(local_58,"Corwin Vell");
 ```
