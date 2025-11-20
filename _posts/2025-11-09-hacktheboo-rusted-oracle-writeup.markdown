@@ -55,29 +55,15 @@ rand (void)
   return (int) __random ();
 }
 ```
-So you can see it calls a function called `__random`, here's the definition for that function:
+So you can see it returns the output of a function called `__random` which is an `int`. To solve this challenge, we just want the function to return a low value so I just set the body of the function to `return 1`:
 ```c
-long int
-__random (void)
+int
+rand (void)
 {
-  int32_t retval;
-
-  if (SINGLE_THREAD_P)
-    {
-      (void) __random_r (&unsafe_state, &retval);
-      return retval;
-    }
-
-  __libc_lock_lock (lock);
-
-  (void) __random_r (&unsafe_state, &retval);
-
-  __libc_lock_unlock (lock);
-
-  return retval;
+  return 1;
 }
 ```
-So we can see that the function returns the value in the variable `retval` which is a `long int`. We just want this function to return a low value so I just changed both instances of `return retval;` with `return 1;` and compiled the source code setting the prefix to a directory in my home directory so it doesn't overwrite my actual system `glibc`
+I then compiled the source code with the prefix set to a directory in my home directory so it doesn't overwrite my actual system `glibc`.
 
 After doing this, you just run the challenge executable like this:
 ```
