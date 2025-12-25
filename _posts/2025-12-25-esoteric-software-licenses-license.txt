@@ -1,0 +1,11 @@
+Copyright (c) 2025 migam830.github.io
+Permission is hereby granted, free of charge, to any person, animal or other being that needs permission to use copyrighted works (the "Entities") obtaining a copy of this blog post (the "Tier List"), to deal in the Tier List without restriction, including without limitation the rights to use, ignore, copy, move, delete, modify, leave unmodified, merge, publish, distribute, perform, read, sublicense and/or sell copies of the Tier List, and to permit Entities to whom the Tier List is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Tier List.
+Copies of the Tier List must contain at least one item not present in the original copy.
+If you sell copies of the Tier List, you must inform the copyright holder of how you convinced someone to give you money for the Tier List.
+Compiling or running the Tier List is strictly prohibited, even if you create a compiler specifically for it.
+If you make the Tier List into a Linux distro tier list, you may not place Ubuntu in a tier higher than or equal to that of Mint, Debian or Arch.
+You must know the definitions of every word in the below disclaimer including, but not limited to, "warranty", "express", "merchantability", "noninfringement", "liable", "tort" and "dealings".
+
+THE TIER LIST IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
