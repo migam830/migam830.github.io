@@ -56,4 +56,5 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 exclude:
-  _posts/2025-12-25-esoteric-software-licenses-license.txt
+  - _posts/2025-12-25-esoteric-software-licenses-license.txt
+  - _posts/2026-04-01-new-favourite-license-license.txt
