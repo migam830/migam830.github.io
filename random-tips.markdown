@@ -19,3 +19,4 @@ Here are the random tips and tricks:
 * You can officially dual-boot different versions of Android on some devices, possibly without needing to unlock the bootloader! See the Android documentation about [Dynamic System Updates](https://developer.android.com/topic/dsu) and [Generic System Images](https://developer.android.com/topic/generic-system-image/) for more details.
 * If you have the VSCode Vim extension installed and your key re-mappings don't work (e.g. caps lock to escape), you can make them work by setting `keyboard.dispatch` to `keyCode` in the settings json
 * If you've installed the `pycryptodome` package with a Linux package manager but python still says `No module named 'Crypto'`, try importing `Cryptodome` instead of `Crypto`
+* If Firefox is automatically downloading files despite you selecting the 'Always ask you where to save files' option, then set the `browser.download.open_pdf_attachments_inline` option to true in `about:config`
