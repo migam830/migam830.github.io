@@ -20,3 +20,4 @@ Here are the random tips and tricks:
 * If you have the VSCode Vim extension installed and your key re-mappings don't work (e.g. caps lock to escape), you can make them work by setting `keyboard.dispatch` to `keyCode` in the settings json
 * If you've installed the `pycryptodome` package with a Linux package manager but python still says `No module named 'Crypto'`, try importing `Cryptodome` instead of `Crypto`
 * If Firefox is automatically downloading files despite you selecting the 'Always ask you where to save files' option, then set the `browser.download.open_pdf_attachments_inline` option to true in `about:config`
+* If you're at a UK train station which only announces platforms a few minutes before departure, you can use sites like https://www.realtimetrains.co.uk/ to predict the platform and get on the train before the rush of passengers after the platform is officially announced (probably not 100% reliable)
