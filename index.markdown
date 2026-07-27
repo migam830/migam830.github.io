@@ -4,7 +4,14 @@
 
 layout: home
 ---
-Hi, I'm Misha, a second year undergraduate university student studying computer science.
+Hi, I'm Misha, an undergraduate university student studying computer science. I'm currently doing a year-long internship between my second and third years at university.
+
+Pronouns: He/Him or They/Them (I don't mind)
+Location: Various places in the UK
+Favourite book: I don't know
+Favourite film: I don't know
+Favourite song: I don't know
+Favourite software license: GPLv3
 
 I like:
 * Linux
@@ -14,11 +21,11 @@ I like:
 * The [right to repair](https://en.wikipedia.org/wiki/Right_to_repair) movement
 * Biscuits (the British version)
 * [F-Droid](https://f-droid.org/en/)
+* Going on random train journeys for fun
+* Exploring new places
 
 I don't like:
 * Microsoft Windows
-* Anything made by Apple
-* Nintendo's legal department
 * [Digital Rights Management](https://www.eff.org/issues/drm)
 * [Arbitration clauses](https://consumerrights.wiki/Forced_arbitration) in terms of service
 * When websites make you pay to reject cookies
