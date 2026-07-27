@@ -7,10 +7,15 @@ layout: home
 Hi, I'm Misha, an undergraduate university student studying computer science. I'm currently doing a year-long internship between my second and third years at university.
 
 Pronouns: He/Him or They/Them (I don't mind)
+
 Location: Various places in the UK
+
 Favourite book: I don't know
+
 Favourite film: I don't know
+
 Favourite song: I don't know
+
 Favourite software license: GPLv3
 
 I like:
