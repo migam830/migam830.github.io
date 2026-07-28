@@ -6,8 +6,8 @@ layout: home
 ---
 Hi, I'm Misha, an undergraduate university student studying computer science. I'm currently doing a year-long internship between my second and third years at university.
 
-**Name:** Misha
-**Pronunciation:** [miːʃə]
+**Name:** Misha<br>
+**Pronunciation:** [miːʃə]<br>
 **Pronouns:** He/Him or They/Them (I don't mind)<br>
 **Location:** Various places in the UK<br>
 **Favourite book:** I don't know<br>
