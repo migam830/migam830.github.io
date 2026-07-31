@@ -10,9 +10,11 @@ I've made quite a few journeys this year so far and I wanted to write about each
 
 
 ## Birmingham New Street to Llanfairpwll
+<div style="overflow-wrap:break-word">
 I've been fascinated by long words and place names for a while and the longest place name in the UK (and probably Europe) is a village in the north of Wales called Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch (it can be shortened a dozen ways). I believe I learned how to say the name of this Welsh village almost a decade ago. However, I had never actually visited the village, and it was always on my bucket-list of places to visit. One Friday during the aforementioned uni exam season, I realised that I had an early exam on Monday. I wanted to wake up early on the weekend so I wouldn't be too sleep-deprived on Monday but knew that would be borderline impossible since I cannot wake up early. So after realising there were direct trains from Birmingham New Street (the nearest major station to me) to Llanfairpwllgwyngyll, I came up with a very reasonable strategy for waking up early on Saturday: buying a non-refundable advance ticket for an early train to North Wales. This strategy couldn't have worked better and I enjoyed the journey significantly more than I expected I would.
 
 I made this journey from Birmingham with Transport for Wales. It was a surprisingly cheap journey given how long the journey was, at around £35 for a return with a 16-25 railcard. Since National Rail maps are under copyright, enjoy my attempt at drawing a map of the route:
+</div>
 
 ![A drawing of a railway map showing a train route between Birmingham New Street and Llanfairpwll](/images/bhm-llanfair.drawio.svg)
 After setting off from Birmingham New Street, the train went through to Shrewsbury, then went through a bit of Wales before briefly returning to England to serve Chester. After this the train went along the north coastline of Wales on the way to Anglesey, the island on which Llanfairpwllgwyngyll is located.
