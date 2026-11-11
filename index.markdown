@@ -4,6 +4,8 @@
 
 layout: home
 ---
+[<- Leonardo](https://leonardobishop.net/) Webring [flaberpengu ->](https://flaberpengu.me/)
+
 Hi, I'm Misha, an undergraduate university student studying computer science. I'm currently doing a year-long internship between my second and third years at university.
 
 **Name:** Misha<br>
