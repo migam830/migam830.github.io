@@ -31,6 +31,11 @@ mastodon:
 rss: RSS feed
 copyright: 2026 migam830 - All Rights Reserved
 
+webringprevname: Leonardo
+webringprevlink: "https://leonardobishop.net/"
+webringnextname: flaberpengu
+webringnextlink: "https://flaberpengu.me/"
+
 # Build settings
 theme: minima
 plugins:
